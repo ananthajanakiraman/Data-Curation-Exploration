@@ -24,37 +24,37 @@ Based on a high-level review of the datasets (old and new), almost all the eleme
 
 **DTD table for Consumer\_Complaints\_FileA.xml**
 
-<img src="pic1.png">
+<img src="Images/pic1.png">
 
 **DTD table for Consumer\_Complaints\_FileB.xml**
 
-<img src="pic2.png">
+<img src="Images/pic2.png">
 
 **DTD table for Final\_Canonicalized\_Consumer\_Complaints.xml**
 
-<img src="pic3.png">
+<img src="Images/pic3.png">
 
 **DTD Validation:**
 
 **DTD Validation for Original\_Consumer\_Complaints\_FileA\_with\_DTD.xml**
 
-<img src="pic4.png">
+<img src="Images/pic4.png">
  
 **DTD Validation for Original\_Consumer\_Complaints\_FileB\_with\_DTD.xml**
 
-<img src="pic5.png">
+<img src="Images/pic5.png">
 
 **DTD Validation for Canonicalized\_Consumer\_Complaints\_FileA\_with\_DTD.xml**
 
-<img src="pic6.png">
+<img src="Images/pic6.png">
 
 **DTD Validation for Canonicalized\_Consumer\_Complaints\_FileB\_with\_DTD.xml**
 
-<img src="pic7.png">
+<img src="Images/pic7.png">
 
 **DTD Validation for Final\_Canonicalized\_Consumer\_Complaints\_with\_DTD.xml**
 
-<img src="pic8.png">
+<img src="Images/pic8.png">
 
 **Canonicalization:**
 
